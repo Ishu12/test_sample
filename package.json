@@ -1,0 +1,24 @@
+{
+  "name": "my_db",
+ 
+ "version": "1.0.0",
+ 
+ "description": "",
+ 
+ "main": "application_form.js",
+ 
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+ "author": "Ishu",
+  "license": "ISC",
+  
+"dependencies": {
+   {
+    "cloudant": "*",
+    "express": "*",
+    "body-parser":"*"}
+}
+
+
